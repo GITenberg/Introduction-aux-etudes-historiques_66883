@@ -1,5 +1,8 @@
 _repo: Introduction-aux-etudes-historiques_66883
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66883-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Seignobos, Charles
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '54004'
     url: http://www.gutenberg.org/2009/agents/54004
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66883#Introduction-aux-etudes-historiques
 gutenberg_issued: '2021-12-04'
 identifiers:
   gutenberg: '66883'
